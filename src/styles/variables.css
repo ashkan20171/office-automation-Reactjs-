@@ -1,0 +1,16 @@
+:root {
+  --primary-color: #3a6cf4;
+  --secondary-color: #f4a261;
+
+  --bg-color: #ffffff;
+  --bg-dark: #111827;
+
+  --text-color: #1f2937;
+  --text-light: #f3f4f6;
+
+  --radius: 8px;
+  --transition: 0.25s ease;
+
+  --header-height: 64px;
+  --sidebar-width: 260px;
+}
