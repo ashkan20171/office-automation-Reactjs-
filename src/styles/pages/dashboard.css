@@ -63,3 +63,25 @@ html[theme="dark"] .kpi-card {
 html[theme="dark"] .kpi-title {
   color: #9ca3af;
 }
+.draggable-widget {
+  cursor: grab;
+}
+
+.draggable-widget:active {
+  cursor: grabbing;
+  opacity: 0.7;
+  transform: scale(0.98);
+}
+.reset-layout-btn {
+  background: #ef4444;
+  color: white;
+  padding: 10px 16px;
+  border-radius: var(--radius);
+  border: none;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+.reset-layout-btn:hover {
+  background: #b91c1c;
+}

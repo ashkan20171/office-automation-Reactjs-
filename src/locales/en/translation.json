@@ -40,6 +40,10 @@
 "latest_activity": "Latest Activity",
 "no_activity": "No activity recorded yet",
 "new_letter_received": "New letter received",
-"task_completed": "Task marked as completed"
+"task_completed": "Task marked as completed",
+"today_attendance": "Today's Attendance Summary",
+"incomplete": "Incomplete",
+"reset_layout": "Reset Layout"
+
 
 }

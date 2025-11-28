@@ -1,0 +1,52 @@
+.ta-card {
+  background: var(--bg-color);
+  padding: 20px;
+  border-radius: var(--radius);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  animation: fadeIn 0.3s ease;
+  border-left: 6px solid transparent;
+}
+
+.ta-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.ta-row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  font-size: 15px;
+}
+
+.ta-status-box {
+  margin-top: 15px;
+  padding: 8px 10px;
+  border-radius: var(--radius);
+  text-align: center;
+  font-weight: bold;
+  color: white;
+}
+
+/* STATUS COLORS */
+.ta-card.present {
+  border-left-color: #10b981;
+}
+.ta-status-box.present {
+  background: #10b981;
+}
+
+.ta-card.incomplete {
+  border-left-color: #f59e0b;
+}
+.ta-status-box.incomplete {
+  background: #f59e0b;
+}
+
+.ta-card.absent {
+  border-left-color: #ef4444;
+}
+.ta-status-box.absent {
+  background: #ef4444;
+}

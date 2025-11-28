@@ -40,7 +40,12 @@
 "latest_activity": "آخرین فعالیت‌ها",
 "no_activity": "هنوز فعالیتی ثبت نشده",
 "new_letter_received": "نامه جدید دریافت شد",
-"task_completed": "وظیفه تکمیل شد"
+"task_completed": "وظیفه تکمیل شد",
+"today_attendance": "خلاصه حضور امروز",
+"incomplete": "ناقص",
+"reset_layout": "بازنشانی چیدمان"
+
+
 
 
 
