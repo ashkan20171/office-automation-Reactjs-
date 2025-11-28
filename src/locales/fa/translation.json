@@ -46,7 +46,23 @@
 "reset_layout": "بازنشانی چیدمان",
 "letter_subject_1": "درخواست مرخصی تایید شد",
 "letter_subject_2": "رمز عبور سیستم شما به‌روزرسانی شد",
-"letter_subject_3": "اطلاعیه جلسه مهم"
+"letter_subject_3": "اطلاعیه جلسه مهم",
+"compose_letter": "ایجاد نامه جدید",
+"subject": "موضوع",
+"recipient": "گیرنده",
+"priority": "اولویت",
+"normal": "عادی",
+"high": "مهم",
+"urgent": "فوری",
+"labels": "برچسب‌ها",
+"attachments": "ضمیمه‌ها",
+"body": "متن نامه",
+"left": "چپ",
+"center": "وسط",
+"right": "راست",
+"save_draft": "ذخیره پیش‌نویس",
+"send": "ارسال"
+
 
 
 

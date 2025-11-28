@@ -1,0 +1,117 @@
+.compose-container {
+  padding: 30px;
+}
+
+.compose-title {
+  font-size: 26px;
+  font-weight: bold;
+  margin-bottom: 25px;
+}
+
+.compose-group {
+  margin-bottom: 25px;
+}
+
+.compose-group label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+.compose-input {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #d1d5db;
+  border-radius: var(--radius);
+  font-size: 15px;
+}
+
+.priority-box button {
+  margin-right: 10px;
+  padding: 8px 14px;
+  border-radius: var(--radius);
+  background: #e5e7eb;
+  border: none;
+  cursor: pointer;
+}
+
+.priority-box button.active {
+  background: var(--primary-color);
+  color: white;
+}
+
+/* Labels */
+.labels-box {
+  display: flex;
+  gap: 10px;
+}
+
+.label-item {
+  padding: 5px 10px;
+  border: 1px solid #d1d5db;
+  border-radius: var(--radius);
+  cursor: pointer;
+}
+
+.label-item.active {
+  background: var(--primary-color);
+  color: white;
+  border-color: var(--primary-color);
+}
+
+/* Attachments */
+.attachment-list {
+  margin-top: 10px;
+}
+
+.attachment-item {
+  background: var(--bg-color);
+  padding: 8px;
+  border-radius: var(--radius);
+  margin-bottom: 5px;
+}
+
+/* Editor */
+.editor-toolbar {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+
+.editor-toolbar button {
+  padding: 6px 10px;
+  border: 1px solid #d1d5db;
+  background: white;
+  cursor: pointer;
+}
+
+.editor-box {
+  border: 1px solid #d1d5db;
+  border-radius: var(--radius);
+  min-height: 250px;
+  padding: 15px;
+  background: white;
+}
+
+/* Actions */
+.compose-actions {
+  margin-top: 30px;
+  display: flex;
+  gap: 15px;
+}
+
+.draft-btn {
+  background: #6b7280;
+  color: white;
+  padding: 12px 20px;
+  border-radius: var(--radius);
+  border: none;
+}
+
+.send-btn {
+  background: var(--primary-color);
+  color: white;
+  padding: 12px 20px;
+  border-radius: var(--radius);
+  border: none;
+}

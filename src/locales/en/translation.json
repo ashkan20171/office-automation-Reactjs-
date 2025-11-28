@@ -46,7 +46,23 @@
 "reset_layout": "Reset Layout",
 "letter_subject_1": "Leave request approved",
 "letter_subject_2": "Your system password has been updated",
-"letter_subject_3": "Important meeting announcement"
+"letter_subject_3": "Important meeting announcement",
+"compose_letter": "Compose New Letter",
+"subject": "Subject",
+"recipient": "Recipient",
+"priority": "Priority",
+"normal": "Normal",
+"high": "High",
+"urgent": "Urgent",
+"labels": "Labels",
+"attachments": "Attachments",
+"body": "Body",
+"left": "Left",
+"center": "Center",
+"right": "Right",
+"save_draft": "Save Draft",
+"send": "Send"
+
 
 
 
