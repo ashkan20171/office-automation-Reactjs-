@@ -3,5 +3,9 @@
   "dashboard": "Dashboard",
   "letters": "Letters",
   "tasks": "Tasks",
-  "welcome": "Welcome to your system"
+  "welcome": "Welcome to your system",
+  "email": "Email Address",
+  "password": "Password",
+  "login": "Login",
+  "welcome_login": "Welcome Back"
 }

@@ -3,5 +3,9 @@
   "dashboard": "داشبورد",
   "letters": "نامه‌ها",
   "tasks": "وظایف",
-  "welcome": "به سیستم خوش آمدید"
+  "welcome": "به سیستم خوش آمدید",
+  "email": "ایمیل",
+  "password": "رمز عبور",
+  "login": "ورود",
+  "welcome_login": "خوش آمدید"
 }
