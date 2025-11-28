@@ -1,0 +1,56 @@
+.qr-container {
+  padding: 30px;
+}
+
+.qr-title {
+  font-size: 26px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.qr-video {
+  width: 100%;
+  max-width: 400px;
+  border-radius: var(--radius);
+  background: #000;
+  margin-bottom: 20px;
+}
+
+.qr-buttons {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+.start-btn {
+  background: var(--primary-color);
+  color: white;
+}
+
+.stop-btn {
+  background: #dc2626;
+  color: white;
+}
+
+.start-btn:hover {
+  background: var(--primary-dark);
+}
+
+.stop-btn:hover {
+  background: #b91c1c;
+}
+
+.qr-result {
+  margin-top: 15px;
+  padding: 15px;
+  background: var(--bg-color);
+  border-radius: var(--radius);
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  animation: fadeIn 0.3s ease;
+}
+
+.qr-error {
+  margin-top: 10px;
+  color: #dc2626;
+  font-size: 16px;
+}

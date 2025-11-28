@@ -7,5 +7,34 @@
   "email": "ایمیل",
   "password": "رمز عبور",
   "login": "ورود",
-  "welcome_login": "خوش آمدید"
+  "welcome_login": "خوش آمدید",
+  "attendance": "حضور و غیاب",
+"attendance_today": "حضور امروز",
+"check_in": "ورود",
+"check_out": "خروج",
+"not_checked_in": "هنوز ورود ثبت نشده",
+"checked_in_at": "ورود ثبت شد در",
+"checked_out_at": "خروج ثبت شد در",
+"current_time": "ساعت فعلی",
+"today_date": "تاریخ امروز",
+"qr_scanner": "اسکنر QR",
+"start_scanner": "شروع اسکن",
+"stop_scanner": "توقف اسکن",
+"qr_detected": "QR شناسایی شد",
+"browser_not_supported": "مرورگر شما از اسکن QR پشتیبانی نمی‌کند",
+"camera_permission_denied": "اجازه دسترسی به دوربین داده نشد",
+"attendance_summary": "گزارش حضور و غیاب",
+"today": "امروز",
+"duration": "مدت حضور",
+"no_data_today": "برای امروز حضور ثبت نشده است",
+"last_7_days": "۷ روز اخیر",
+"present": "حاضر",
+"absent": "غایب",
+"not_complete": "ناقص",
+"loading_widget": "در حال بارگذاری ویجت..."
+
+
+
+
+
 }

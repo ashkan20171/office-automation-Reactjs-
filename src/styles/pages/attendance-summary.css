@@ -1,0 +1,54 @@
+.summary-container {
+  padding: 30px;
+}
+
+.summary-title {
+  font-size: 26px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+/* Today Summary */
+.summary-today {
+  background: var(--bg-color);
+  padding: 20px;
+  border-radius: var(--radius);
+  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+  margin-bottom: 30px;
+}
+
+.summary-box p {
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
+.no-data {
+  color: #6b7280;
+}
+
+/* Recent 7 Days */
+.recent-title {
+  margin-bottom: 15px;
+}
+
+.recent-list .day-item {
+  background: var(--bg-color);
+  padding: 15px;
+  border-radius: var(--radius);
+  box-shadow: 0 3px 10px rgba(0,0,0,0.08);
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.day-date {
+  font-weight: bold;
+}
+
+.day-status {
+  font-weight: bold;
+}
+
+.day-duration {
+  color: #374151;
+}
