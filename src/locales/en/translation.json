@@ -43,7 +43,11 @@
 "task_completed": "Task marked as completed",
 "today_attendance": "Today's Attendance Summary",
 "incomplete": "Incomplete",
-"reset_layout": "Reset Layout"
+"reset_layout": "Reset Layout",
+"letter_subject_1": "Leave request approved",
+"letter_subject_2": "Your system password has been updated",
+"letter_subject_3": "Important meeting announcement"
+
 
 
 }

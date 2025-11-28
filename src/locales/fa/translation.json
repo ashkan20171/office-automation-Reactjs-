@@ -43,7 +43,11 @@
 "task_completed": "وظیفه تکمیل شد",
 "today_attendance": "خلاصه حضور امروز",
 "incomplete": "ناقص",
-"reset_layout": "بازنشانی چیدمان"
+"reset_layout": "بازنشانی چیدمان",
+"letter_subject_1": "درخواست مرخصی تایید شد",
+"letter_subject_2": "رمز عبور سیستم شما به‌روزرسانی شد",
+"letter_subject_3": "اطلاعیه جلسه مهم"
+
 
 
 
