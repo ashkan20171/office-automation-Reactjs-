@@ -1,0 +1,17 @@
+.linechart-container {
+  background: var(--bg-color);
+  padding: 20px;
+  border-radius: var(--radius);
+  box-shadow: 0 4px 14px rgba(0,0,0,0.1);
+}
+
+.linechart-svg {
+  width: 100%;
+  height: 150px;
+}
+
+.chart-dot {
+  fill: var(--primary-color);
+  stroke: white;
+  stroke-width: 2;
+}

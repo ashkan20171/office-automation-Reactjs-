@@ -36,3 +36,30 @@
   padding: 40px;
   border: 2px dashed #e5e7eb;
 }
+.kpi-card {
+  padding: 25px;
+  text-align: center;
+}
+
+.kpi-title {
+  font-size: 15px;
+  color: #6b7280;
+  margin-bottom: 10px;
+}
+
+.kpi-value {
+  font-size: 32px;
+  font-weight: bold;
+  color: var(--primary-color);
+  margin-top: 5px;
+  animation: fadeIn 0.4s ease;
+}
+
+/* Dark mode support auto */
+html[theme="dark"] .kpi-card {
+  background: #1f2937;
+}
+
+html[theme="dark"] .kpi-title {
+  color: #9ca3af;
+}

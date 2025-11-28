@@ -1,0 +1,31 @@
+.donut-container {
+  position: relative;
+  width: 160px;
+  margin: auto;
+}
+
+.donut-bg {
+  fill: none;
+  stroke: #e5e7eb;
+  stroke-width: 15;
+}
+
+.donut-fill {
+  fill: none;
+  stroke: var(--primary-color);
+  stroke-width: 15;
+  stroke-linecap: round;
+  transform: rotate(-90deg);
+  transform-origin: center;
+  stroke-dasharray: 0 440;
+  transition: stroke-dasharray 1s ease;
+}
+
+.donut-text {
+  position: absolute;
+  top: 55px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 28px;
+  font-weight: bold;
+}

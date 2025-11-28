@@ -1,0 +1,23 @@
+.barchart-container {
+  display: flex;
+  gap: 10px;
+  height: 150px;
+  background: var(--bg-color);
+  padding: 20px;
+  border-radius: var(--radius);
+  box-shadow: 0 4px 14px rgba(0,0,0,0.1);
+  align-items: flex-end;
+}
+
+.bar-item {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}
+
+.bar {
+  width: 20px;
+  background: var(--primary-color);
+  border-radius: var(--radius);
+  transition: height 0.5s ease;
+}

@@ -10,8 +10,11 @@
   "welcome_login": "خوش آمدید",
   "attendance": "حضور و غیاب",
 "attendance_today": "حضور امروز",
-"check_in": "ورود",
-"check_out": "خروج",
+"checked_in": "ورود ثبت شده",
+"checked_out": "خروج ثبت شده",
+"pending_tasks": "وظایف باز",
+"unread_letters": "نامه‌های خوانده‌نشده",
+"today_activity": "فعالیت‌های امروز",
 "not_checked_in": "هنوز ورود ثبت نشده",
 "checked_in_at": "ورود ثبت شد در",
 "checked_out_at": "خروج ثبت شد در",
@@ -31,7 +34,16 @@
 "present": "حاضر",
 "absent": "غایب",
 "not_complete": "ناقص",
-"loading_widget": "در حال بارگذاری ویجت..."
+"activity_week": "فعالیت هفتگی",
+"letters_this_week": "نامه‌های این هفته",
+"tasks_completion": "درصد تکمیل وظایف",
+"latest_activity": "آخرین فعالیت‌ها",
+"no_activity": "هنوز فعالیتی ثبت نشده",
+"new_letter_received": "نامه جدید دریافت شد",
+"task_completed": "وظیفه تکمیل شد"
+
+
+
 
 
 
